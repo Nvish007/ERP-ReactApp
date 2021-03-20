@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397457300963",
+    "firebase_url": "https://proweapp-73409.firebaseio.com",
+    "project_id": "proweapp-73409",
+    "storage_bucket": "proweapp-73409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397457300963:android:8f25084f36b95d18d894d6",
+        "android_client_info": {
+          "package_name": "com.proweapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397457300963-lo4gpues10481ag6ts2v54tjsom2nh9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUk2MCM9uCoE8JcekxgsXT2ZfXjcCbwxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397457300963-lo4gpues10481ag6ts2v54tjsom2nh9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
