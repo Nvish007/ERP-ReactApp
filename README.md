@@ -1,3 +1,3 @@
 # ERP-ReactApp
 
-This Repository Deprecated.
+This Repository is deprecated.
